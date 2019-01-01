@@ -1,9 +1,9 @@
 # Data science programming project
 
-## [1. Apriori algorithm for finding association rules](http://hconnect.hanyang.ac.kr/2017_ITE4005_10066/2017_ITE4005_2012003716/tree/master/assignment1)
-## [2. Decision tree for classification](http://hconnect.hanyang.ac.kr/2017_ITE4005_10066/2017_ITE4005_2012003716/tree/master/assignment2)
-## [3. DBSCAN algorithm for clustering](http://hconnect.hanyang.ac.kr/2017_ITE4005_10066/2017_ITE4005_2012003716/tree/master/assignment3)
-## [4. Model based movie recommender system by using matrix factorization](http://hconnect.hanyang.ac.kr/2017_ITE4005_10066/2017_ITE4005_2012003716/tree/master/assignment4)
+## [1. Apriori algorithm for finding association rules](https://github.com/kwangilcho/data-mining-labs/tree/master/assignment1)
+## [2. Decision tree for classification](https://github.com/kwangilcho/data-mining-labs/tree/master/assignment2)
+## [3. DBSCAN algorithm for clustering](https://github.com/kwangilcho/data-mining-labs/tree/master/assignment3)
+## [4. Model based movie recommender system by using matrix factorization](https://github.com/kwangilcho/data-mining-labs/tree/master/assignment4)
 
 ## Authors
 
